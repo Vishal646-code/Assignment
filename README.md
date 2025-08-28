@@ -1,3 +1,4 @@
+#!/bin/sh
 Introduction:
 I'm Vishal, and my interests and hobbies include playing badminton & cricket, listening to music, reading books, coding.
 What I liked most about Git:
